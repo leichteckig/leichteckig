@@ -8,8 +8,7 @@ Well, let's get serious. I'm so glad you found my Github profile! 😍 My name i
 
 - 🔭  I’m currently working as Developer Core @shopware. 💙
 - 💜  I love frontend testing and love to share it. So I became [Cypress ambassador](https://cypress.io/ambassadors/), co-organise the german [Cypress Meetup](https://www.meetup.com/de-DE/cypress-de-community), hold talks at [conferences](https://speakerinnen.org/en/profiles/ramona-schwering) and started to write [articles](https://www.smashingmagazine.com/author/ramona-schwering/).
-- 🌱  I’m currently learning to get better in Frontend technologies.
-- 🤔  I’m looking for help with creating wonderful, high-qualitiy frontend application.
+- 🌱  I’m currently learning to get even better in Frontend technologies. Especially when it comes to tooling.
+- 🤔  I’m looking for help with creating wonderful, high-quality frontend application.
 - 📫  How to reach me: You can reach me best via twitter (@leichteckig).
 - 😄  Pronouns: she/her
-
