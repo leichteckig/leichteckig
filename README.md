@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![image (1)](https://user-images.githubusercontent.com/29896429/114540538-f4e91000-9c55-11eb-85ff-db9e981feb4d.png)
+<img src="https://user-images.githubusercontent.com/29896429/114540538-f4e91000-9c55-11eb-85ff-db9e981feb4d.png" height="300">
 
 *Hello. I'm Moe, and welcome to the premiere episode of Moe presents Fun with Testing. Over the next couple of minutes, you and I are going to explore the dynamic world of frontend development and testing.*
 
