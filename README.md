@@ -2,7 +2,7 @@
 
 ![image (1)](https://user-images.githubusercontent.com/29896429/114540538-f4e91000-9c55-11eb-85ff-db9e981feb4d.png)
 
-*Hello. I'm [Ramona], and welcome to the premiere episode of Moe presents Fun with Flags. Over the next couple of minutes, you and I are going to explore the dynamic world of frontend development and testing.*
+*Hello. I'm Moe, and welcome to the premiere episode of Moe presents Fun with Testing. Over the next couple of minutes, you and I are going to explore the dynamic world of frontend development and testing.*
 
 Well, let's get serious. I'm so glad you found my Github profile! 😍 My name is Ramona, but I'm also known as Moe. I'm passioinate about frontend technologies, especially in the testing area. Some facts about me:
 
