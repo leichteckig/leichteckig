@@ -6,7 +6,7 @@
 
 Well, let's get serious. I'm so glad you found my Github profile! 😍 My name is Ramona, but I'm also known as Moe. I'm passioinate about frontend technologies, especially in the testing area. Some facts about me:
 
-- 🔭  I’m currently working as Developer Core @shopware. 💙
+- 🔭  I’m currently working as Developer Advocate @auth0. 💜
 - 💜  I love frontend testing and love to share it. So I became [Cypress ambassador](https://cypress.io/ambassadors/), co-organise the german [Cypress Meetup](https://www.meetup.com/de-DE/cypress-de-community), giving [talks](https://speakerinnen.org/en/profiles/ramona-schwering) at conferences and started to write [articles](https://www.smashingmagazine.com/author/ramona-schwering/).
 - 🌱  I’m currently learning to get even better in Frontend technologies. Especially when it comes to tooling.
 - 📫  How to reach me: You can reach me best via twitter (@leichteckig).
